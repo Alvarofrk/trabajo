@@ -178,7 +178,7 @@ int main(){
 	*/
 	
 	//Problem 9
-	//son bisiestos los años multiplos de 4, los multiplos de 100 no lo son amenos que sean multiplos de 400
+	//son bisiestos los aÃ±os multiplos de 4, los multiplos de 100 no lo son amenos que sean multiplos de 400
 	
 	/*
 	int fecha;
@@ -211,7 +211,7 @@ int main(){
 	*/
 	
 	//Problem extra
-	
+	/*
 	int fact=1, numero;
 	cout<<"introduce un numero: ";cin>>numero;
 	for(int i=1;i<=numero;i++){
@@ -219,7 +219,7 @@ int main(){
 	
 	}
 	cout<<fact;
-	
+	*/
 	
 	return 0;
 }
